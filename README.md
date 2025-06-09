@@ -87,7 +87,7 @@ Aplikasi ini dapat diakses secara publik melalui Streamlit Cloud.
 
 ## 🙋‍♂️ Kontributor
 
-* Nama: **ADVENT CLEMENT ZENDRATO**
+* Nama: **Eggi Maulana Rizky**
 * Institusi: Universitas Nusa Putra
 * Mata Kuliah: Machine Learning
 * Dosen: GINA PURNAMA INSANY, S.ST., M.Kom
