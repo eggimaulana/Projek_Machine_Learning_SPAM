@@ -35,7 +35,7 @@ with st.sidebar:
     - Dataset SMSSpamCollection
     """)
     st.markdown("---")
-    st.caption("👨‍💻 Dibuat oleh ADVENT - Machine Learning, Nusa Putra 2024")
+    st.caption("👨‍💻 Dibuat oleh Eggi - Machine Learning, Nusa Putra 2025")
 
 st.title("📧 Deteksi Pesan Spam")
 st.markdown("Masukkan pesan teks di bawah untuk mendeteksi apakah itu **Spam** atau **Bukan Spam (Ham)**.")
